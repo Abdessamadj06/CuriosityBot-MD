@@ -21,29 +21,29 @@ global.rosas = fs.readFileSync('./storage/imagenes/rosas.jpg')
 global.refran = fs.readFileSync('./storage/imagenes/refran.jpg')
 global.linksjpg = fs.readFileSync('./storage/imagenes/Links.jpg')
 
-var img = 'https://telegra.ph/file/d837e687c894ff494b8d0.jpg'; var img1 = 'https://telegra.ph/file/0cdc7553a40170768bb62.jpg'; var img2 = 'https://telegra.ph/file/f65120cc170ec0bd17954.jpg'; var img3 = 'https://telegra.ph/file/cee466f95093295d0e813.jpg'; var img4 = 'https://telegra.ph/file/ee93c98e87acf5d9209df.jpg'; var img5 = 'https://telegra.ph/file/27f4c77f58c19efefb4f6.jpg'
-var img6 = 'https://telegra.ph/file/e69365c893e373d9b9b2a.jpg'; var img7 = 'https://telegra.ph/file/74c4b176f5cdc4961ee3f.jpg'; var img8 = 'https://telegra.ph/file/57205e403964eff285ee6.jpg'; var img9 = 'https://telegra.ph/file/44356ed9419c4e87ed9f3.jpg'; var img10 = 'https://telegra.ph/file/27f4c77f58c19efefb4f6.jpg'
+var img = 'https://telegra.ph/file/d88aca24113774c6a6f66.jpg'; var img1 = 'https://telegra.ph/file/d50f5cf4ff6a96f884108.jpg'; var img2 = 'https://telegra.ph/file/432f51d9f5ac6c7197de3.jpg'; var img3 = 'https://telegra.ph/file/d88aca24113774c6a6f66.jpg'; var img4 = 'https://telegra.ph/file/d88aca24113774c6a6f66.jpg'; var img5 = 'https://telegra.ph/file/432f51d9f5ac6c7197de3.jpg'
+var img6 = 'https://telegra.ph/file/4bf46294a1700e662aa52.jpg'; var img7 = 'https://telegra.ph/file/432f51d9f5ac6c7197de3.jpg'; var img8 = 'https://telegra.ph/file/4bf46294a1700e662aa52.jpg'; var img9 = 'https://telegra.ph/file/d50f5cf4ff6a96f884108.jpg'; var img10 = 'https://telegra.ph/file/4bf46294a1700e662aa52.jpg'
 
 global.ImgAll = [img, img1, img2, img3, img4, img5, img6, img7, img8, img9, img10]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Azami_YT'
-global.ig = 'https://instagram.com/azami_dev'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
-global.paypal = 'https://paypal.me/Azamijs'
-global.git = 'https://github.com/AzamiJs'
-global.linkwabot = 'https://wa.me/message/QRWLLJZ2PH3MG1'
-global.email = 'thecuriositybot@gmail.com'
-global.group = 'https://chat.whatsapp.com/GrcXB1NINsDAPp4fCVgwfX' //Grupo ofc
-global.group2 = 'https://chat.whatsapp.com/B8RJAm16U2EISSDETrPivq' //enlace curiosity
-global.group3 = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
-global.group4 = 'https://chat.whatsapp.com/HXOGzELFOVXFM1KrSoKdqH' //colaboración multi bots
-global.group5 = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' //Colaboración CuriosityBot - NovaBot
-global.group6 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' //Colaboración GataBot - CuriosityBot
-global.group7 = 'https://chat.whatsapp.com/BXdy1TYcQ5NLs4Xy9jNavH' //Colaboración CuriosityBot - Criwilop
-global.group8 = 'https://chat.whatsapp.com/JNdlCEUKLqHAw87sOqfKmO' //Colaboración CuriosityBot - SakuraBot
-global.group9 = 'https://chat.whatsapp.com/EvRZx8BOI2RFcV3KLFGOU8' //Colaboración OnyxBot - CuriosityBot
-global.channel = 'https://whatsapp.com/channel/0029VaB4w2ZFHWpwgyEe3w2k'
+global.yt = 'https://www.youtube.com/@'
+global.ig = 'https://instagram.com/majnon._.98'
+global.md = 'https://github.com/majnonrossi'
+global.paypal = 'https://paypal.me/majnonrossi'
+global.git = 'https://github.com/majnonrossi'
+global.linkwabot = 'https://wa.me/message/+212 654-974981'
+global.email = 'abdessamadj06@gmail.com'
+global.group = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //Grupo ofc
+global.group2 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //enlace curiosity
+global.group3 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //Curiosity global
+global.group4 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //colaboración multi bots
+global.group5 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //Colaboración CuriosityBot - NovaBot
+global.group6 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //Colaboración GataBot - CuriosityBot
+global.group7 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //Colaboración CuriosityBot - Criwilop
+global.group8 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //Colaboración CuriosityBot - SakuraBot
+global.group9 = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r' //Colaboración OnyxBot - CuriosityBot
+global.channel = 'https://chat.whatsapp.com/LnqUcqNXFlj8ATVAQS0l6r'
 global.linkSity = [yt, ig, md, paypal, git, channel]
 
 //Raíz
